@@ -100,7 +100,18 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
-
+![a](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/e16a114b-d760-4c14-b873-d23738ebc244)
+![b](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/508db383-3861-44b4-b0dc-bb89104dd5e2)
+![c](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/9810687b-e2d4-4d9b-940e-8fdbd4256a8e)
+![d](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/3ee8cac2-08ee-4eab-8299-656a038bc07d)
+![e](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/2df5a5b8-7cbf-43df-ae36-440faa8d640f)
+![f](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/8d04444a-bb53-46b4-93cc-8b8c377c39fc)
+![g](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/dcd1a869-88e4-417c-80c8-0730fa1156cf)
+![h](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/ae0807eb-c7f1-4c51-9295-f3d0adbb6a6f)
+![i](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/72f1d9c0-51f3-42f1-b91e-78ac4a264292)
+![j](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/51937488-3a58-4ec4-bdf7-a10e70ca8caf)
+![k](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/ea8c41da-5ea1-4052-aa21-7d9018ea34f7)
+![l](https://github.com/Gajalakshmivelmurugan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144871940/ce1f66e9-5e06-4e02-9a3c-1d0220c4858d)
 
 
 
@@ -108,7 +119,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Hence Pick and place of objects using industrial manipulator is executed successfully.
 
 
 
