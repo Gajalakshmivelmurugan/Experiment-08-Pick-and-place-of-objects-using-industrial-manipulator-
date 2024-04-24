@@ -8,7 +8,6 @@
 ### Theory: 
 
 A pick and place robot has several dedicated parts, such as:
-
 Robot Arm tool: A robotic arm, also known as a manipulator, is the extension of the robot by using cylindrical or spherical parts. links, and joints.
 
 End Effector: The end effector is the accessory at the end of the robotic arm, that does the required job such as gripping objects. The end effectors can be designed to perform different functionalities based on requirements.
